@@ -14,4 +14,9 @@ public class SpringBootKafkaConsumerApplication {
 		System.out.println("git checout> dev 3 person added in method..how local checkout maintain latest version");
 	}
 
+	public void addNewMethod22(){
+		System.out.println("git checout> dev 3 person added in method..merge ...");
+	}
+
+
 }
